@@ -6,7 +6,7 @@ description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: SaikatChakraborty_RR.jpg
+  image: JM4.jpg
   address: >
     <p>Harkness Hall, Of. 116 F</p>
     <p>280 Hutchison Road</p>
