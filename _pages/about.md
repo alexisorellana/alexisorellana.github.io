@@ -16,7 +16,7 @@ news: true
 social: true
 ---
 
-Welcome! I'm a Ph.D. Candidate in Economics at the University of Rochester.
+Welcome! I am a Ph.D. Candidate in Economics at the University of Rochester.
 
 I am on the 2020-2021 job market and will be available for interviews. 
 
