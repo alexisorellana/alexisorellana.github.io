@@ -8,7 +8,7 @@ nav: true
 
 #### Working Papers
 <ul>
-<li> Teacher Assessment Biases and Achievement Gaps in High School <em> (Job Market Paper) </em> </li> <a href="{{ site.baseurl }}/assets/pdf/JMP.pdf" target="_blank">pdf</a>
+<li> Teacher Assessment Biases and Achievement Gaps in High School <em> (Job Market Paper) </em> </li> <a href="{{ site.baseurl }}/assets/pdf/JMP.pdf" target="_blank">Paper</a>
 </ul>
 
 
