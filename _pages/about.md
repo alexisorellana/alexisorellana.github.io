@@ -12,7 +12,7 @@ profile:
     <p>280 Hutchison Road</p>
     <p>Rochester, NY 14627</p>
 
-news: true
+news: false
 social: true
 ---
 
