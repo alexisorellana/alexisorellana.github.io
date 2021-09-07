@@ -8,21 +8,21 @@ profile:
   align: right
   image: JM4.jpg
   address: >
-    <p>Harkness Hall, Of. 116 F</p>
-    <p>280 Hutchison Road</p>
-    <p>Rochester, NY 14627</p>
+    <p>Wheelock Educational Policy Center</p>
+    <p>Two Silber Way</p>
+    <p>Boston, MA 02215</p>
 
 news: false
 social: true
 ---
 
-Welcome! I am a Ph.D. Candidate in Economics at the University of Rochester.
+Welcome! I am a Postdoctoral Associate at the Wheelock Educational Policy Center at Boston University.
 
-I am on the 2020-2021 job market and will be available for interviews. 
+I received my Ph.D. in Economics from the University of Rochester. 
 
 My research interests are labor economics and economics of education.
 
-Contact: <a href="mailto:borellan@ur.rochester.edu">borellan@ur.rochester.edu</a>
+Contact: <a href="mailto:borellan@bu.edu">borellan@bu.edu</a>
 
 Download my [CV]({{ site.baseurl }}/assets/pdf/Resume.pdf)
 
