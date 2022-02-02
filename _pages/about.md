@@ -24,7 +24,7 @@ My research interests are labor economics and economics of education.
 
 Contact: <a href="mailto:borellan@bu.edu">borellan@bu.edu</a>
 
-Download my [CV]({{ site.baseurl }}/assets/pdf/Resume.pdf)
+Download my [CV]({{ site.baseurl }}/assets/pdf/Alexis Orellana - CV.pdf)
 
 
 
