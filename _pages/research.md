@@ -8,14 +8,16 @@ nav: true
 
 #### Working Papers
 <ul>
-<li> Teacher Assessment Biases and Achievement Gaps in High School <em> (Job Market Paper) </em> </li> 
+<li> Teacher Mis-assessments and High School Outcomes <em> (Submitted) </em> </li> 
+<li> COVID-19 and the Composition of the Massachusetts Teacher Workforce (with Juan Matta)</li>
+<li> Neighbor Spillovers in High School Choice (with Juan Matta)</li>
 </ul>
 
 
 #### Work in Progress
 <ul>
 <li> Aspirations, Education, and Occupations (with <a href="https://sites.google.com/site/kegontantk/" target="_blank">Kegon Tan</a>) </li> 
-<li> Assessing Teacher Quality for Disadvantaged Students (with Josh Hollinger)</li>
+<li> Coworker Networks, Residential Neighbors, and Earnings Growth </li>
 </ul>
 
 
