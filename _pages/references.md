@@ -12,7 +12,7 @@ nav: true
 Wheelock College of Education & Human
 Development	
 Boston University	
-Boston, MA 02215. USA	
+Boston, MA	
 <a href="mailto:marcusw@bu.edu">marcusw@bu.edu</a> </pre>
     </div>
     <div class="col-sm mt-3 mt-md-0">
@@ -20,7 +20,7 @@ Boston, MA 02215. USA
 Wheelock College of Education & Human
 Development	
 Boston University	
-Boston, MA 02215. USA	
+Boston, MA	
 <a href="mailto:edecjosh@bu.edu">edecjosh@bu.edu</a> </pre>
     </div>
 </div>
@@ -31,14 +31,14 @@ Boston, MA 02215. USA
 <pre>Prof. Ronni Pavan		
 Department of Economics	
 University of Rochester	
-Rochester, NY 14657. USA	
+Rochester, NY	
 <a href="mailto:ronni.pavan@rochester.edu">ronni.pavan@rochester.edu</a> </pre>
     </div>
     <div class="col-sm mt-3 mt-md-0">
 <pre>Prof. Kegon Tan		
 Department of Economics	
 University of Rochester	
-Rochester, NY 14657. USA	
+Rochester, NY	
 <a href="mailto:ttan8@ur.rochester.edu">ttan8@ur.rochester.edu</a> </pre>
     </div>
 </div>
