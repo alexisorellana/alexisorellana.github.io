@@ -9,14 +9,16 @@ nav: true
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
 <pre>Prof. Marcus Winters		
-Wheelock College of Education & Human Development	
+Wheelock College of Education & Human
+Development	
 Boston University	
 Boston, MA 02215. USA	
 <a href="mailto:marcusw@bu.edu">marcusw@bu.edu</a> </pre>
     </div>
     <div class="col-sm mt-3 mt-md-0">
 <pre>Prof. Joshua Goodman		
-Wheelock College of Education & Human Development	
+Wheelock College of Education & Human
+Development	
 Boston University	
 Boston, MA 02215. USA	
 <a href="mailto:edecjosh@bu.edu">edecjosh@bu.edu</a> </pre>
