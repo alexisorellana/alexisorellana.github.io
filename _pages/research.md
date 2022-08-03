@@ -9,8 +9,8 @@ nav: true
 #### Working Papers
 <ul>
 <li> Teacher Mis-assessments and High School Outcomes <em> (Submitted) </em> </li> 
-<li> COVID-19 and the Composition of the Massachusetts Teacher Workforce (with Juan Matta)</li>
-<li> Neighbor Spillovers in High School Choice (with Juan Matta)</li>
+<li> COVID-19 and the Composition of the Massachusetts Teacher Workforce (with <a href="https://www.andrewbacherhicks.com/home" target="_blank">Andrew Bacher-Hicks</a> and Olivia Chi)</li>
+<li> Neighbor Spillovers in High School Choice (with <a href="https://jjmatta.github.io" target="_blank">Juan Matta</a>)</li>
 </ul>
 
 
