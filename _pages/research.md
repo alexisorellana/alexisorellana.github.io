@@ -17,6 +17,7 @@ Does mis-assessment by teachers on subjective evaluations matter for students’
 </details>
 <a href="{{ site.baseurl }}/assets/pdf/Manuscript.pdf" target="_blank">[Manuscript]</a>
 
+****
 
 <li> COVID-19 and the Composition of the Massachusetts Teacher Workforce (with <a href="https://www.andrewbacherhicks.com/home" target="_blank">Andrew Bacher-Hicks</a> and <a href="https://www.oliviachi.com" target="_blank">Olivia Chi</a>)</li>
 <details>
