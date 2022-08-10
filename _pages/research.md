@@ -21,14 +21,16 @@ nav: true
 <li> Aspirations, Education, and Occupations (with <a href="https://sites.google.com/site/kegontantk/" target="_blank">Kegon Tan</a>) </li> 
 
 <li> Coworker Networks, Residential Neighbors, and Earnings Growth </li>
-</ul>
-
 <details>
 <summary>Abstract</summary>
 
 AAA
 
 </details>
+
+</ul>
+
+
 
 
 
