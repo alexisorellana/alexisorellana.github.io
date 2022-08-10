@@ -23,6 +23,12 @@ nav: true
 <li> Coworker Networks, Residential Neighbors, and Earnings Growth </li>
 </ul>
 
+<details>
+<summary>Abstract</summary>
+
+AAA
+
+</details>
 
 
 
