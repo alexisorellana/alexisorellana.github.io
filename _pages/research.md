@@ -8,7 +8,7 @@ nav: true
 
 #### Working Papers
 <ul>
-<li> Teacher Mis-assessments and High School Outcomes <em> (Submitted) </em> </li> 
+<li> Teacher Mis-assessments and High School Outcomes <em> (Under Review) </em> </li> 
 <details>
 <summary><b>Abstract</b></summary>
 
@@ -25,6 +25,8 @@ Does mis-assessment by teachers on subjective evaluations matter for students’
 The unprecedented challenges of teaching during COVID-19 prompted fears of a mass exodus from the profession. We examine the extent to which these fears were realized using administrative records of Massachusetts teachers between 2015-16 and 2021-22. Relative to pre-pandemic levels, average turnover rates were similar going into the fall of 2020 but increased by 17 percent (from 15.0 to 17.5) going into the fall of 2021. The fall 2021 increases were particularly high among newly hired teachers (31 percent increase), but were lower among Black and Hispanic/Latinx teachers (5 percent increases among both groups). Gaps in turnover rates between schools serving higher and lower concentrations of economically disadvantaged students narrowed during the first 18 months of the pandemic. The same holds true for gaps in turnover between schools serving higher and lower shares of Black and Hispanic/Latinx students. Together, these findings highlight important differences in teachers’ responses to the pandemic across subgroups, as well as the need to improve early-career retention to ensure long-term stability within the teacher workforce.
   	
 </details>
+
+<a href="{{ site.baseurl }}/assets/pdf/covid_WP.pdf" target="_blank">[Manuscript]</a>
 
 <li> Neighbor Spillovers in High School Choice (with <a href="https://jjmatta.github.io" target="_blank">Juan Matta</a>)</li>
 <details>
