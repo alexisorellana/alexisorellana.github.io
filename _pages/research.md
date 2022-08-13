@@ -8,7 +8,7 @@ nav: true
 
 #### Working Papers
 <ul>
-<li> Teacher Mis-assessments and High School Outcomes <em> (Under Review) </em> </li> 
+<li> Teacher Mis-assessments and High School Outcomes - <em> Under Review </em> </li> 
 <details>
 <summary><b>Abstract</b></summary>
 
@@ -18,7 +18,7 @@ Does mis-assessment by teachers on subjective evaluations matter for students’
 <a href="{{ site.baseurl }}/assets/pdf/Manuscript.pdf" target="_blank">[Manuscript]</a>
 
 
-<li> COVID-19 and the Composition of the Massachusetts Teacher Workforce (with <a href="https://www.andrewbacherhicks.com/home" target="_blank">Andrew Bacher-Hicks</a> and <a href="https://www.oliviachi.com" target="_blank">Olivia Chi</a>)</li>
+<li> COVID-19 and the Composition of the Massachusetts Teacher Workforce (with <a href="https://www.andrewbacherhicks.com/home" target="_blank">Andrew Bacher-Hicks</a> and <a href="https://www.oliviachi.com" target="_blank">Olivia Chi</a>) - <em> R&R at Educational Researcher </em> </li>
 <details>
 <summary><b>Abstract</b></summary>
 
@@ -28,7 +28,7 @@ The unprecedented challenges of teaching during COVID-19 prompted fears of a mas
 
 <a href="{{ site.baseurl }}/assets/pdf/covid_WP.pdf" target="_blank">[Manuscript]</a>
 
-<li> Neighbor Spillovers in High School Choice (with <a href="https://jjmatta.github.io" target="_blank">Juan Matta</a>)</li>
+<li> Neighbors' Spillovers in High School Choice (with <a href="https://jjmatta.github.io" target="_blank">Juan Matta</a>)</li>
 <details>
 <summary><b>Abstract</b></summary>
 
