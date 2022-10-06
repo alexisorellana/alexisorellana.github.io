@@ -7,6 +7,8 @@ nav: true
 ---
 
 #### Working Papers
+<ul>
+
 <li> Neighbors' Spillovers in High School Choice (with <a href="https://jjmatta.github.io" target="_blank">Juan Matta</a>) - <em> Job Market Paper </em> </li>
 <details>
 <summary><b>Abstract</b></summary>
@@ -14,10 +16,9 @@ nav: true
 Do neighbors affect each others' schooling choices? We exploit oversubscription lotteries in Chile's centralized school admission system to identify the effect of close neighbors on application and enrollment decisions. A student is 6-8\% more likely to rank a high school as first preference and to attend that school if the closest neighbor attended it the prior year. These effects are stronger in families with lower education, college expectations, and prior academic achievement, measured by previous scores in national standardized tests. Lower-achieving applicants are more likely to follow neighbors to schools with better attributes when their closest neighbor's test scores are higher. Targeted policies aimed at increasing information to disadvantaged parents could produce significant multiplier effects. 
   	
 </details>
-</ul>
 
 
-<ul>
+
 <li> Teacher Mis-assessments and High School Outcomes - <em> Under Review </em> </li> 
 <details>
 <summary><b>Abstract</b></summary>
@@ -38,7 +39,7 @@ The unprecedented challenges of teaching during COVID-19 prompted fears of a mas
 
 <a href="{{ site.baseurl }}/assets/pdf/covid_WP.pdf" target="_blank">[Manuscript]</a>
 
-
+</ul>
 
 
 #### Work in Progress
