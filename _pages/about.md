@@ -18,7 +18,7 @@ social: true
 
 Welcome! I am a Postdoctoral Associate at the Wheelock Educational Policy Center at Boston University.
 
-I received my Ph.D. in Economics from the University of Rochester. 
+I received my Ph.D. in Economics from the University of Rochester in 2021. 
 
 My research interests are labor economics and economics of education.
 
