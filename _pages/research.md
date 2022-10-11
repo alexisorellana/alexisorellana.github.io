@@ -47,6 +47,9 @@ The unprecedented challenges of teaching during COVID-19 prompted fears of a mas
 <li> Aspirations, Education, and Occupations (with <a href="https://sites.google.com/site/kegontantk/" target="_blank">Kegon Tan</a>) </li> 
 
 <li> Coworker Networks, Residential Neighbors, and Earnings Growth </li>
+
+<li> Licensure Tests and the Supply of Teachers (with <a href="https://sites.bu.edu/marcuswinters/" target="_blank">Marcus Winters</a>) </li> 
+
 </ul>
 
 
