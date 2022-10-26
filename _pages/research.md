@@ -9,7 +9,7 @@ nav: true
 #### Working Papers
 <ul>
 
-<li> Neighbors' Spillovers on High School Choice (with <a href="https://jjmatta.github.io" target="_blank">Juan Matta</a>) - <em> Job Market Paper </em> </li>
+<li> Neighbors' Spillovers on High School Choice (with <a href="https://jjmatta.notion.site" target="_blank">Juan Matta</a>) - <em> Job Market Paper </em> </li>
 <details>
 <summary><b>Abstract</b></summary>
 
