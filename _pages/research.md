@@ -53,7 +53,7 @@ It is well documented that children often “inherit” their parents’ occupat
 </details>
 
 
-<li> Coworker Networks, Residential Neighbors, and Earnings Growth </li>
+<li> Coworker Networks, Residential Neighbors, and Earnings Growth - <em> W.E. Upjohn Institute Early Career Research Award </em> </li> 
 
 <details>
 <summary><b>Abstract</b></summary>
