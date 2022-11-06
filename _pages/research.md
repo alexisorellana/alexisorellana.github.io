@@ -58,11 +58,18 @@ It is well documented that children often “inherit” their parents’ occupat
 <details>
 <summary><b>Abstract</b></summary>
 
-I study the relevance of former coworkers and neighbors to explain job mobility and earnings growth patterns for workers in the United States. Using matched employer-employee data from the Longitudinal Employer-Household Dynamics I construct individual-level proxies of new job opportunities available to workers using the number of new hires in firms where previous coworkers and close neighbors work. I extend the empirical framework of Caldwell and Harmon (2019) to isolate the effect of individual-level networks from other determinants of job mobility. I merge these records to multiple rounds of the American Community Survey to investigate heterogeneity across occupations and college majors.</details>
-
-<li> College Major Choice and Labor Market Matching (with <a href="https://sites.google.com/view/josh-kinsler/" target="_blank">Josh Kinsler</a> and <a href="https://sites.google.com/site/ronnipavan" target="_blank">Ronni Pavan</a>) </li> 
+I study the relevance of former coworkers and neighbors to explain job mobility and earnings growth patterns for workers in the United States. Using matched employer-employee data from the Longitudinal Employer-Household Dynamics I construct individual-level proxies of new job opportunities available to workers using the number of new hires in firms where previous coworkers and close neighbors work. I extend the empirical framework of Caldwell and Harmon (2019) to isolate the effect of individual-level networks from other determinants of job mobility. I merge these records to multiple rounds of the American Community Survey to investigate heterogeneity across occupations and college majors.
+</details>
 
 <li> Licensure Tests and the Supply of Teachers (with <a href="https://sites.bu.edu/marcuswinters/" target="_blank">Marcus Winters</a>) </li> 
+
+<details>
+<summary><b>Abstract</b></summary>
+
+Applying a regression discontinuity design to administrative data from Connecticut, we provide causal evidence that licensure test requirements reduce the supply of eligible teachers by deterring candidates who fail their first attempt. Failing a basic-skills test required for entry into a teacher preparation program reduces the probability a candidate eventually earns any state teaching certification by 2 p.p. and decreases the likelihood of obtaining an endorsement to teach within a shortage area by 1.5 p.p., or about 10% relative to the average first-time test-taker. Failing a subject-matter certification test typically administered near the completion of a preparation program reduces the probability of earning any certification by 3.9 p.p. Among those who take a test to teach within a shortage area, failing the first administration reduces the likelihood of eventually gaining an endorsement in special education or STEM subject by 6.1 and 6.9 p.p., respectively.
+</details>
+
+<li> College Major Choice and Labor Market Matching (with <a href="https://sites.google.com/view/josh-kinsler/" target="_blank">Josh Kinsler</a> and <a href="https://sites.google.com/site/ronnipavan" target="_blank">Ronni Pavan</a>) </li> 
 
 </ul>
 
