@@ -17,9 +17,7 @@ Do neighbors affect each others' schooling choices? We exploit oversubscription 
   	
 </details>
 
-
-	&nbsp;
-
+<br>
 
 <li> Teacher Mis-assessments and High School Outcomes - <em> Under Review </em> </li> 
 <details>
@@ -30,9 +28,7 @@ Does mis-assessment by teachers on subjective evaluations matter for students’
 </details>
 <a href="{{ site.baseurl }}/assets/pdf/Manuscript.pdf" target="_blank">[Manuscript]</a>
 
-
-<br>	&nbsp;
-
+<br>
 
 <li> COVID-19 and the Composition of the Massachusetts Teacher Workforce (with <a href="https://www.andrewbacherhicks.com/home" target="_blank">Andrew Bacher-Hicks</a> and <a href="https://www.oliviachi.com" target="_blank">Olivia Chi</a>) - <em> Conditionally accepted at Educational Researcher </em> </li>
 <details>
@@ -57,9 +53,7 @@ The unprecedented challenges of teaching during COVID-19 prompted fears of a mas
 It is well documented that children often “inherit” their parents’ occupations. This paper studies the role of early occupational aspirations in determining later life outcomes, a potentially important channel for intergenerational correlations in occupations. Using the Wisconsin Longitudinal Study, we estimate a lifecycle model of college choice and occupation choice to quantify the effect of aspirations on education and wages. We find that aspirations have a sizeable impact on educational attainment and wages, even conditional on latent skills that we recover from the choice model. We also simulate the importance of family background conditional on skills through the strong correlation between family background and aspirations. Our findings suggest that aspirations may be valuable for reducing intergenerational inequality.  	
 </details>
 
-
-	&nbsp;
-
+<br>
 
 <li> Coworker Networks, Residential Neighbors, and Earnings Growth - <em> W.E. Upjohn Institute Early Career Research Award </em> </li> 
 
@@ -69,9 +63,7 @@ It is well documented that children often “inherit” their parents’ occupat
 I study the relevance of former coworkers and neighbors to explain job mobility and earnings growth patterns for workers in the United States. Using matched employer-employee data from the Longitudinal Employer-Household Dynamics I construct individual-level proxies of new job opportunities available to workers using the number of new hires in firms where previous coworkers and close neighbors work. I extend the empirical framework of Caldwell and Harmon (2019) to isolate the effect of individual-level networks from other determinants of job mobility. I merge these records to multiple rounds of the American Community Survey to investigate heterogeneity across occupations and college majors.
 </details>
 
-
-	&nbsp;
-
+<br>
 
 <li> Licensure Tests and the Supply of Teachers (with <a href="https://sites.bu.edu/marcuswinters/" target="_blank">Marcus Winters</a>) </li> 
 
@@ -81,15 +73,9 @@ I study the relevance of former coworkers and neighbors to explain job mobility 
 Applying a regression discontinuity design to administrative data from Connecticut, we provide causal evidence that licensure test requirements reduce the supply of eligible teachers by deterring candidates who fail their first attempt. Failing a basic-skills test required for entry into a teacher preparation program reduces the probability a candidate eventually earns any state teaching certification by 2 p.p. and decreases the likelihood of obtaining an endorsement to teach within a shortage area by 1.5 p.p., or about 10% relative to the average first-time test-taker. Failing a subject-matter certification test typically administered near the completion of a preparation program reduces the probability of earning any certification by 3.9 p.p. Among those who take a test to teach within a shortage area, failing the first administration reduces the likelihood of eventually gaining an endorsement in special education or STEM subject by 6.1 and 6.9 p.p., respectively.
 </details>
 
-
-	&nbsp;
-
+<br>
 
 <li> College Major Choice and Labor Market Matching (with <a href="https://sites.google.com/view/josh-kinsler/" target="_blank">Josh Kinsler</a> and <a href="https://sites.google.com/site/ronnipavan" target="_blank">Ronni Pavan</a>) </li> 
 
 </ul>
-
-
-
-
 
