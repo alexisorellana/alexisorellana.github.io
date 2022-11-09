@@ -251,10 +251,11 @@ footer.sticky-bottom {
 // Research
 
 .page {
-  .grid-item {
-    //width: 250px;
-    margin-bottom: 20px;
-  }
+ul {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
 }
 
 
