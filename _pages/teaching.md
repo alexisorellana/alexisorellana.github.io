@@ -11,13 +11,13 @@ nav: true
 
 #### Instructor, University of Rochester
 <ul>
-<li> Undergraduate: Econometrics (Summer 2019) </li> <a href="{{ site.baseurl }}/assets/pdf/Eco231_syllabus.pdf" target="_blank">Syllabus</a>
+<li> Undergraduate: Econometrics (Summer 2019) </li> <a href="{{ site.baseurl }}/assets/pdf/Eco231_syllabus.pdf" target="_blank">[Syllabus]</a>
 </ul>
 
 
 #### Instructor, University of Chile  
 <ul>
-<li> Graduate: Mathematics for Economists (Fall 2014 & Fall 2015) </li> <a href="{{ site.baseurl }}/assets/pdf/syllabus-in700-Eng.pdf" target="_blank">Syllabus</a>
+<li> Graduate: Mathematics for Economists (Fall 2014 & Fall 2015) </li> <a href="{{ site.baseurl }}/assets/pdf/syllabus-in700-Eng.pdf" target="_blank">[Syllabus]</a>
 
 </ul>
 
