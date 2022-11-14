@@ -19,7 +19,7 @@ Do neighbors affect each others' schooling choices? We exploit oversubscription 
 <a href="{{ site.baseurl }}/assets/pdf/neighbors_SAE.pdf" target="_blank">[Manuscript]</a>
 
 
-	&nbsp;
+<br>	&nbsp;
 
 
 <li> Teacher Mis-assessments and High School Outcomes - <em> Under Review </em> </li> 
