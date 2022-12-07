@@ -86,7 +86,7 @@ Applying a regression discontinuity design to administrative data from Connectic
 	&nbsp;
 
 
-<li> College Major Choice and Labor Market Matching (with <a href="https://sites.google.com/view/josh-kinsler/" target="_blank">Josh Kinsler</a> and <a href="https://sites.google.com/site/ronnipavan" target="_blank">Ronni Pavan</a>) </li> 
+<li> College Major Choice and Labor Market Matching (with Woosuk Choi, <a href="https://sites.google.com/view/josh-kinsler/" target="_blank">Josh Kinsler</a>, and <a href="https://sites.google.com/site/ronnipavan" target="_blank">Ronni Pavan</a>) </li> 
 
 </ul>
 
