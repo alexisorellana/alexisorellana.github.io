@@ -74,12 +74,12 @@ I study the relevance of former coworkers and neighbors to explain job mobility 
 	&nbsp;
 
 
-<li> Licensure Tests and the Supply of Teachers (with <a href="https://sites.bu.edu/marcuswinters/" target="_blank">Marcus Winters</a>) </li> 
+<li> Licensure Tests and Teacher Supply (with <a href="https://sites.bu.edu/marcuswinters/" target="_blank">Marcus Winters</a>) </li> 
 
 <details>
 <summary><b>Abstract</b></summary>
 
-Applying a regression discontinuity design to administrative data from Connecticut, we provide causal evidence that licensure test requirements reduce the supply of eligible teachers by deterring candidates who fail their first attempt. Failing a basic-skills test required for entry into a teacher preparation program reduces the probability a candidate eventually earns any state teaching certification by 2 p.p. and decreases the likelihood of obtaining an endorsement to teach within a shortage area by 1.5 p.p., or about 10% relative to the average first-time test-taker. Failing a subject-matter certification test typically administered near the completion of a preparation program reduces the probability of earning any certification by 3.9 p.p. Among those who take a test to teach within a shortage area, failing the first administration reduces the likelihood of eventually gaining an endorsement in special education or STEM subject by 6.1 and 6.9 p.p., respectively.
+Public school administrators struggle to staff classrooms with qualified teachers, especially within shortage areas such as STEM. Applying a regression discontinuity design to administrative data from Connecticut, we provide causal evidence that licensure test requirements reduce the supply of eligible teachers by deterring candidates who fail their first attempt. The effect is especially large for those seeking an endorsement to teach STEM subjects. The deterrent effect grows substantially larger for scores further away from the passing threshold. Consistent with findings from other states, licensure test scores are only modestly correlated with a teacher’s later value-added contribution to student test scores.
 </details>
 
 
