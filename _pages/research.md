@@ -22,6 +22,19 @@ Do neighbors affect each others’ schooling choices? We exploit oversubscriptio
 <br>	&nbsp;
 
 
+<li> Licensure Tests and Teacher Supply (with <a href="https://sites.bu.edu/marcuswinters/" target="_blank">Marcus Winters</a>) </li> 
+<details>
+<summary><b>Abstract</b></summary>
+
+Public school administrators struggle to staff classrooms with qualified teachers, especially within shortage areas such as STEM. Applying a regression discontinuity design to administrative data from Connecticut, we provide causal evidence that licensure test requirements reduce the supply of eligible teachers by deterring candidates who fail their first attempt. The effect is especially large for those seeking an endorsement to teach STEM subjects. The deterrent effect grows substantially larger for scores further away from the passing threshold. Consistent with findings from other states, licensure test scores are only modestly correlated with a teacher’s later value-added contribution to student test scores.
+
+</details>
+<a href="{{ site.baseurl }}/assets/pdf/Praxis_Manuscript.pdf" target="_blank">[Manuscript]</a>
+
+
+<br>	&nbsp;
+
+
 <li> Teacher Mis-assessments and High School Outcomes - <em> Under Review </em> </li> 
 <details>
 <summary><b>Abstract</b></summary>
@@ -68,18 +81,6 @@ It is well documented that children often “inherit” their parents’ occupat
 <summary><b>Abstract</b></summary>
 
 I study the relevance of former coworkers and neighbors to explain job mobility and earnings growth patterns for workers in the United States. Using matched employer-employee data from the Longitudinal Employer-Household Dynamics I construct individual-level proxies of new job opportunities available to workers using the number of new hires in firms where previous coworkers and close neighbors work. I extend the empirical framework of Caldwell and Harmon (2019) to isolate the effect of individual-level networks from other determinants of job mobility. I merge these records to multiple rounds of the American Community Survey to investigate heterogeneity across occupations and college majors.
-</details>
-
-
-	&nbsp;
-
-
-<li> Licensure Tests and Teacher Supply (with <a href="https://sites.bu.edu/marcuswinters/" target="_blank">Marcus Winters</a>) </li> 
-
-<details>
-<summary><b>Abstract</b></summary>
-
-Public school administrators struggle to staff classrooms with qualified teachers, especially within shortage areas such as STEM. Applying a regression discontinuity design to administrative data from Connecticut, we provide causal evidence that licensure test requirements reduce the supply of eligible teachers by deterring candidates who fail their first attempt. The effect is especially large for those seeking an endorsement to teach STEM subjects. The deterrent effect grows substantially larger for scores further away from the passing threshold. Consistent with findings from other states, licensure test scores are only modestly correlated with a teacher’s later value-added contribution to student test scores.
 </details>
 
 
