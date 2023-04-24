@@ -9,6 +9,20 @@ nav: true
 #### Working Papers
 <ul>
 
+
+<li> College Majors and Earnings Growth (with Woosuk Choi, <a href="https://sites.google.com/view/josh-kinsler/" target="_blank">Josh Kinsler</a>, and <a href="https://sites.google.com/site/ronnipavan" target="_blank">Ronni Pavan</a>) </li>
+<details>
+<summary><b>Abstract</b></summary>
+
+In this paper we estimate major specific earnings profiles using matched American Community Survey (ACS) and Longitudinal Employer-Household Dynamics (LEHD) data. The advantage of the matched data relative to the ACS alone is that it provides a long panel of worker earnings, thus avoiding estimating life cycle profiles using cross- cohort variation. Once we allow the returns to major to vary by cohort, we find that engineering, computer science, and business majors experience faster earnings growth relative to humanities majors. For example, the gap in earnings between technical majors like engineering and computer science and humanities grows by 5-6% between ages 23 and 50. Our estimates also indicate that more recent graduates in these fields earn a larger premium relative to humanities than earlier cohorts.
+  	
+</details>
+<a href="{{ site.baseurl }}/assets/pdf/CKOP_4_7_23" target="_blank">[Manuscript]</a>
+
+
+<br>	&nbsp;
+
+
 <li> Neighbors' Spillovers on High School Choice (with <a href="https://jjmatta.notion.site" target="_blank">Juan Matta</a>) </li>
 <details>
 <summary><b>Abstract</b></summary>
@@ -22,7 +36,7 @@ Do neighbors affect each others’ schooling choices? We exploit oversubscriptio
 <br>	&nbsp;
 
 
-<li> Licensure Tests and Teacher Supply (with <a href="https://sites.bu.edu/marcuswinters/" target="_blank">Marcus Winters</a>) - <em> Under Review </em> </li> 
+<li> Licensure Tests and Teacher Supply (with <a href="https://sites.bu.edu/marcuswinters/" target="_blank">Marcus Winters</a>) - </li> 
 <details>
 <summary><b>Abstract</b></summary>
 
@@ -35,7 +49,7 @@ Public school administrators struggle to staff classrooms with qualified teacher
 <br>	&nbsp;
 
 
-<li> Teacher Mis-assessments and High School Outcomes - <em> Under Review </em> </li> 
+<li> Teacher Mis-assessments and High School Outcomes - </li> 
 <details>
 <summary><b>Abstract</b></summary>
 
@@ -48,7 +62,7 @@ Does mis-assessment by teachers on subjective evaluations matter for students’
 <br>	&nbsp;
 
 
-<li> Two Years Later: How COVID-19 has Shaped the Teacher Workforce (with <a href="https://www.andrewbacherhicks.com/home" target="_blank">Andrew Bacher-Hicks</a> and <a href="https://www.oliviachi.com" target="_blank">Olivia Chi</a>) - <em> Conditionally accepted at Educational Researcher </em> </li>
+<li> Two Years Later: How COVID-19 has Shaped the Teacher Workforce (with <a href="https://www.andrewbacherhicks.com/home" target="_blank">Andrew Bacher-Hicks</a> and <a href="https://www.oliviachi.com" target="_blank">Olivia Chi</a>) - <em> Forthcoming at Educational Researcher </em> </li>
 <details>
 <summary><b>Abstract</b></summary>
 
@@ -87,7 +101,7 @@ I study the relevance of former coworkers and neighbors to explain job mobility 
 	&nbsp;
 
 
-<li> College Major Choice and Labor Market Matching (with Woosuk Choi, <a href="https://sites.google.com/view/josh-kinsler/" target="_blank">Josh Kinsler</a>, and <a href="https://sites.google.com/site/ronnipavan" target="_blank">Ronni Pavan</a>) </li> 
+<li> College Major Choice and Labor Market Matching (with Choi, <a href="https://sites.google.com/view/josh-kinsler/" target="_blank">Kinsler</a>, and <a href="https://sites.google.com/site/ronnipavan" target="_blank">Pavan</a>) </li> 
 
 </ul>
 
