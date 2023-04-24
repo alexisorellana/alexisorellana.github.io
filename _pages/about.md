@@ -16,7 +16,7 @@ news: false
 social: true
 ---
 
-Welcome! I am a Postdoctoral Associate at the Wheelock Educational Policy Center at Boston University.
+Welcome! I am a Postdoctoral Associate at the <a href="https://wheelockpolicycenter.org" target="_blank">Wheelock Educational Policy Center</a> at Boston University. In September, 2023 I will join the <a href="https://www.sesp.northwestern.edu" target="_blank">School of Education and Social Policy</a> at Northwestern University as a Lead Economist.
 
 I received my Ph.D. in Economics from the University of Rochester in 2021. 
 
@@ -24,7 +24,7 @@ My research interests are labor economics and economics of education.
 
 Contact: <a href="mailto:borellan@bu.edu">borellan@bu.edu</a>
 
-Download my [CV]({{ site.baseurl }}/assets/pdf/Alexis Orellana - CV.pdf)
+[Curriculum Vitae]({{ site.baseurl }}/assets/pdf/Alexis Orellana - CV.pdf)
 
 
 

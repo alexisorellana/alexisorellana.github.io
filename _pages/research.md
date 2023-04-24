@@ -9,7 +9,7 @@ nav: true
 #### Working Papers
 <ul>
 
-<li> Neighbors' Spillovers on High School Choice (with <a href="https://jjmatta.notion.site" target="_blank">Juan Matta</a>) - <em> Job Market Paper </em> </li>
+<li> Neighbors' Spillovers on High School Choice (with <a href="https://jjmatta.notion.site" target="_blank">Juan Matta</a>) </li>
 <details>
 <summary><b>Abstract</b></summary>
 
@@ -48,7 +48,7 @@ Does mis-assessment by teachers on subjective evaluations matter for students’
 <br>	&nbsp;
 
 
-<li> COVID-19 and the Composition of the Massachusetts Teacher Workforce (with <a href="https://www.andrewbacherhicks.com/home" target="_blank">Andrew Bacher-Hicks</a> and <a href="https://www.oliviachi.com" target="_blank">Olivia Chi</a>) - <em> Conditionally accepted at Educational Researcher </em> </li>
+<li> Two Years Later: How COVID-19 has Shaped the Teacher Workforce (with <a href="https://www.andrewbacherhicks.com/home" target="_blank">Andrew Bacher-Hicks</a> and <a href="https://www.oliviachi.com" target="_blank">Olivia Chi</a>) - <em> Conditionally accepted at Educational Researcher </em> </li>
 <details>
 <summary><b>Abstract</b></summary>
 
