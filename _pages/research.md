@@ -36,7 +36,7 @@ Do neighbors affect each others’ schooling choices? We exploit oversubscriptio
 <br>	&nbsp;
 
 
-<li> Licensure Tests and Teacher Supply (with <a href="https://sites.bu.edu/marcuswinters/" target="_blank">Marcus Winters</a>) - </li> 
+<li> Licensure Tests and Teacher Supply (with <a href="https://sites.bu.edu/marcuswinters/" target="_blank">Marcus Winters</a>) </li> 
 <details>
 <summary><b>Abstract</b></summary>
 
@@ -49,7 +49,7 @@ Public school administrators struggle to staff classrooms with qualified teacher
 <br>	&nbsp;
 
 
-<li> Teacher Mis-assessments and High School Outcomes - </li> 
+<li> Teacher Mis-assessments and High School Outcomes </li> 
 <details>
 <summary><b>Abstract</b></summary>
 
