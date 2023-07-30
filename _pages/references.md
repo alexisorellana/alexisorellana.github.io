@@ -34,13 +34,6 @@ University of Rochester
 Rochester, NY	
 <a href="mailto:ronni.pavan@rochester.edu">ronni.pavan@rochester.edu</a> </pre>
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-<pre>Prof. Kegon Tan		
-Department of Economics	
-University of Rochester	
-Rochester, NY	
-<a href="mailto:ttan8@ur.rochester.edu">ttan8@ur.rochester.edu</a> </pre>
-    </div>
 </div>
 
 

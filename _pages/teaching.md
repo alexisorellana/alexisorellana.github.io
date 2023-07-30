@@ -7,6 +7,10 @@ description:
 nav: true
 ---
 
+#### Northwestern University
+<ul>
+<li> Graduate: Economics of Public Policy (Fall 2023, scheduled) </li> 
+</ul>
 
 
 #### University of Rochester
