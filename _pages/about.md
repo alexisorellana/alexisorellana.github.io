@@ -7,10 +7,6 @@ description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 profile:
   align: right
   image: JM4.jpg
-  address: >
-    <p>Wheelock Educational Policy Center</p>
-    <p>Two Silber Way</p>
-    <p>Boston, MA 02215</p>
 
 news: false
 social: true
