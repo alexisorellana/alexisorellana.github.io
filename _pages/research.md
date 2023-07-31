@@ -20,7 +20,7 @@ The unprecedented challenges of teaching during COVID-19 prompted fears of a mas
 
 <a href="{{ site.baseurl }}/assets/pdf/covid_WP.pdf" target="_blank">[Manuscript]</a>
 
-<ul>
+</ul>
 
 
 
