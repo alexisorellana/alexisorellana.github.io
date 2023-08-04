@@ -55,14 +55,15 @@ Do neighbors affect each others’ schooling choices? We exploit oversubscriptio
 <br>	&nbsp;
 
 
-<li> Licensure Tests and Teacher Supply (with <a href="https://sites.bu.edu/marcuswinters/" target="_blank">Marcus Winters</a>) </li> 
+<li> Licensure Tests and Teacher Supply (with <a href="https://sites.bu.edu/marcuswinters/" target="_blank">Marcus Winters</a>) <em> Submitted </em> </li> 
 <details>
 <summary><b>Abstract</b></summary>
 
-Public school administrators struggle to staff classrooms with qualified teachers, especially within shortage areas such as STEM. Applying a regression discontinuity design to administrative data from Connecticut, we provide causal evidence that licensure test requirements reduce the supply of eligible teachers by deterring candidates who fail their first attempt. The effect is especially large for those seeking an endorsement to teach STEM subjects. The deterrent effect grows substantially larger for scores further away from the passing threshold. Consistent with findings from other states, licensure test scores are only modestly correlated with a teacher’s later value-added contribution to student test scores.
+
+We apply a sharp regression discontinuity design to administrative data from Connecticut to investigate the impact of failing the first attempt at a licensure test on teacher supply. We find deterrent effects from failing both a basic skills test required to enter an educator preparation program (Praxis I) and a subject-matter test used for ultimate certification (Praxis II). Failing Praxis II especially deters those seeking endorsement to teach within the shortage areas of STEM and special education. Failing Praxis I especially deters those who would be less effective teachers, but failing Praxis II disproportionately pushes out relatively effective potential teachers.
 
 </details>
-<a href="{{ site.baseurl }}/assets/pdf/Praxis_Manuscript.pdf" target="_blank">[Manuscript]</a>
+<a href="{{ site.baseurl }}/assets/pdf/Praxis_Manuscript_Revision.pdf" target="_blank">[Manuscript]</a>
 
 
 <br>	&nbsp;
