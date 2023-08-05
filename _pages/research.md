@@ -12,14 +12,14 @@ nav: true
 
 <li> <a href="https://doi.org/10.3102/0013189X231153659" target="_blank">Two Years Later: How COVID-19 has Shaped the Teacher Workforce</a> (2023) 
 
-<hr>
+<br>
 
 _with <a href="https://www.andrewbacherhicks.com/home" target="_blank">Andrew Bacher-Hicks</a> and <a href="https://www.oliviachi.com" target="_blank">Olivia Chi</a> - <em> Educational Researcher </em>, 52(4):219-229 </li>
 
 </ul>
 
 
-
+<hr>
 
 #### Working Papers
 <ul>
@@ -77,6 +77,8 @@ Does mis-assessment by teachers on subjective evaluations matter for students’
 
 </ul>
 
+
+<hr>
 
 #### Work in Progress
 <ul>
