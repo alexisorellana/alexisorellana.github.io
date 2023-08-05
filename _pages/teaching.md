@@ -26,6 +26,10 @@ nav: true
 </ul>
 
 
+
+
+<hr>
+
 #### Teaching Assistant, University of Rochester
 <ul>
 <li> Undergraduate: Econometrics (Spring 2017 & Spring 2018); Labor Economics (Fall 2017); Economic Statistics (Fall 2018 & Spring 2021); Marketing Research and Analytics (Fall 2020, Simon School of Business) </li> 
