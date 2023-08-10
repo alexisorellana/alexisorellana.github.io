@@ -14,7 +14,9 @@ nav: true
 
 <br>
 
-with <a href="https://www.andrewbacherhicks.com/home" target="_blank">Andrew Bacher-Hicks</a> and <a href="https://www.oliviachi.com" target="_blank">Olivia Chi</a> - <em> Educational Researcher </em>, 52(4):219-229 </li>
+with <a href="https://www.andrewbacherhicks.com/home" target="_blank">Andrew Bacher-Hicks</a> and <a href="https://www.oliviachi.com" target="_blank">Olivia Chi</a> - <em> Educational Researcher </em>, 52(4): 219-229 </li>
+
+<a href="{{ site.baseurl }}/assets/pdf/covid_WP.pdf" target="_blank">[WP Version]</a>
 
 </ul>
 
