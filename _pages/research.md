@@ -38,7 +38,7 @@ In this paper we estimate major specific earnings profiles using matched America
 <br>	&nbsp;
 
 
-<li> Neighbors' Spillovers on High School Choice (with <a href="https://jjmatta.notion.site" target="_blank">Juan Matta</a>) </li>
+<li> Neighbors' Spillovers on High School Choice (with <a href="https://jjmatta.notion.site" target="_blank">Juan Matta</a>) - <em> Submitted </em> </li>
 <details>
 <summary><b>Abstract</b></summary>
 
@@ -65,13 +65,14 @@ We apply a sharp regression discontinuity design to administrative data from Con
 <br>	&nbsp;
 
 
-<li> Teacher Mis-assessments and High School Outcomes </li> 
-<details>
-<summary><b>Abstract</b></summary>
+<li> <a href="{{ site.baseurl }}/assets/pdf/igo_main.pdf" target="_blank">Aspirations, Education, and Occupations</a> (with <a href="https://sites.google.com/site/kegontantk/" target="_blank">Kegon Tan</a>) </li> 
 
-Does mis-assessment by teachers on subjective evaluations matter for students’ educational outcomes? I employ administrative data from North Carolina that contain standardized test scores and teacher assessments for each ninth-grade student to examine whether exposure to a teacher whose judgments differ systematically from students’ achievement levels impacts student outcomes. Exposure to teachers who are more likely to overassess students, relative to what test scores signal, increases GPA and college expectations for girls and non-white students. In terms of SAT scores, I find increases for blacks and Hispanics but decreases for Asian students.
-  	
-</details>
+
+<br>	&nbsp;
+
+
+<li> Teacher Mis-assessments and High School Outcomes </li> 
+
 <a href="{{ site.baseurl }}/assets/pdf/Manuscript.pdf" target="_blank">[Manuscript]</a>
 
 
@@ -82,16 +83,10 @@ Does mis-assessment by teachers on subjective evaluations matter for students’
 
 #### Work in Progress
 <ul>
-<li> Aspirations, Education, and Occupations (with <a href="https://sites.google.com/site/kegontantk/" target="_blank">Kegon Tan</a>) </li> 
-
-
-	&nbsp;
-
 
 <li> Coworker Networks, Residential Neighbors, and Earnings Growth - <em> W.E. Upjohn Institute Early Career Research Award </em> </li> 
 
 	&nbsp;
-
 
 <li> College Major Choice and Labor Market Matching (with Choi, <a href="https://sites.google.com/view/josh-kinsler/" target="_blank">Kinsler</a>, and <a href="https://sites.google.com/site/ronnipavan" target="_blank">Pavan</a>) </li> 
 
