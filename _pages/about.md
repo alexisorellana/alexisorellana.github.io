@@ -16,7 +16,7 @@ Welcome! I am a Lead Economist at the School of Education and Social Policy at N
 
 My research interests are labor economics and the economics of education.
 
-I received my Ph.D. in Economics from the University of Rochester in 2021. Before starting my Ph.D., I worked as an economist at the Chilean Antitrust Agency and as a Lecturer at the University of Chile. 
+I received my Ph.D. in Economics from the University of Rochester in 2021. Before starting doctoral studies, I worked as an economist at the Chilean Antitrust Agency and as a Lecturer at the University of Chile. 
 
 Contact: <a href="mailto:boris.orellana@northwestern.edu">boris.orellana@northwestern.edu</a>
 
