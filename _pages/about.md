@@ -10,7 +10,7 @@ profile:
   image: JM4.jpg
 
 news: false
-social: true
+social: false
 ---
 
 Welcome! I am a Lead Economist at the School of Education and Social Policy at Northwestern University. Previously, I was a Postdoctoral Associate at the Wheelock Policy Educational Center at Boston University.
