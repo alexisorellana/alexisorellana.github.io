@@ -21,7 +21,7 @@ nav: true
 
 #### University of Chile  
 <ul>
-<li> Graduate: Mathematics for Economists \</li> <a href="{{ site.baseurl }}/assets/pdf/syllabus-in700-Eng.pdf" target="_blank">[Syllabus]</a>
+<li> Graduate: Mathematics for Economists </li> <a href="{{ site.baseurl }}/assets/pdf/syllabus-in700-Eng.pdf" target="_blank">[Syllabus]</a>
 
 </ul>
 
@@ -32,15 +32,15 @@ nav: true
 
 #### Teaching Assistant, University of Rochester
 <ul>
-<li> Undergraduate: Econometrics (Spring 2017 & Spring 2018); Labor Economics (Fall 2017); Economic Statistics (Fall 2018 & Spring 2021); Marketing Research and Analytics (Fall 2020, Simon School of Business) </li> 
+<li> Undergraduate: Econometrics; Labor Economics; Economic Statistics; Marketing Research and Analytics </li> 
 
-<li> Graduate: Econometrics (Spring 2019, Econ Ph.D.); Core Statistics (Summer 2018, Simon School of Business); Economics and Marketing Strategy (Fall 2019 & Fall 2020, Simon School of Business); Research in Applied Econometrics (Spring 2021, Econ Ph.D.); Managerial Economics (Summer 2021, Simon School of Business) </li> 
+<li> Graduate: Econometrics; Core Statistics; Economics and Marketing Strategy; Research in Applied Econometrics; Managerial Economics </li> 
 </ul>
 
 
 #### Teaching Assistant, University of Chile
 <ul>
-<li> Undergraduate: Principles of Economics (Spring 2011, Fall 2012 & Spring 2012); Intermediate Microeconomics (Spring 2014) </li> 
+<li> Undergraduate: Principles of Economics; Intermediate Microeconomics </li> 
 
-<li> Graduate: Economic Policy Workshop (Fall 2012, Fall 2013 & Fall 2014); Econometrics (Fall 2014)	</li> 
+<li> Graduate: Economic Policy Workshop; Econometrics	</li> 
 </ul>
