@@ -17,7 +17,6 @@
     span.s4 {font-kerning: none; background-color: #b3b3b3}
     span.s5 {-webkit-text-stroke: 0px #000000}
     span.s6 {text-decoration: underline ; font-kerning: none}
-    span.s7 {font: 13.0px Menlo; font-kerning: none; color: #0b0c0c; background-color: #f4f4f4; -webkit-text-stroke: 0px #0b0c0c}
     ul.ul1 {list-style-type: disc}
   </style>
 </head>
@@ -29,7 +28,9 @@
   <li class="li3"><span class="s5"><a href="file:///Users/alexis/Documents/GitHub/alexisorellana.github.io/_includes/%7B%7B%20'/'%20%7C%20relative_url%20%7D%7D"><span class="s6">about {% if page.title == "about" %} (current) {% endif %}<span class="Apple-converted-space"> </span></span></a></span></li>
   <li class="li1"><span class="s5"></span><span class="s1">{% if site.blog_name %}</span></li>
   <li class="li3"><span class="s5"><a href="file:///Users/alexis/Documents/GitHub/alexisorellana.github.io/_includes/%7B%7B%20'/blog/'%20%7C%20relative_url%20%7D%7D"><span class="s6">blog {% if page.title == "blog" %} (current) {% endif %}<span class="Apple-converted-space"> </span></span></a></span></li>
-  <li class="li1"><span class="s5"></span><span class="s1">{% endif %} {% assign sorted_pages = site.pages | sort: “order” %} {% for p in sorted_pages %}</span><span class="s7">&lt;li&gt;&lt;a href="{{node.url}}"&gt;{{node.title}}&lt;/a&gt;&lt;/li&gt;</span><span class="s1"> {% endfor %}<span class="Apple-converted-space"> </span></span></li>
+  <li class="li1"><span class="s5"></span><span class="s1">{% endif %} {% assign sorted_pages = site.pages | sort: "title" %} {% for p in sorted_pages %} {% if p.nav and p.autogen == nil %}</span></li>
+  <li class="li3"><span class="s5"><a href="file:///Users/alexis/Documents/GitHub/alexisorellana.github.io/_includes/%7B%7B%20p.url%20%7C%20relative_url%20%7D%7D"><span class="s6">{{ p.title }} {% if page.title == p.title %} (current) {% endif %}<span class="Apple-converted-space"> </span></span></a></span></li>
+  <li class="li1"><span class="s5"></span><span class="s1">{% endif %} {% endfor %}<span class="Apple-converted-space"> </span></span></li>
 </ul>
 </body>
 </html>
