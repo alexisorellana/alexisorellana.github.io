@@ -14,7 +14,7 @@ nav: true
 
 <br>
 
-with <a href="https://www.andrewbacherhicks.com/home" target="_blank">Andrew Bacher-Hicks</a> and <a href="https://www.oliviachi.com" target="_blank">Olivia Chi</a> - <em> Educational Researcher </em>, 52(4): 219-229 </li>
+with Andrew Bacher-Hicks and Olivia Chi - <em> Educational Researcher </em>, 52(4): 219-229 </li>
 
 </ul>
 
@@ -25,41 +25,20 @@ with <a href="https://www.andrewbacherhicks.com/home" target="_blank">Andrew Bac
 <ul>
 
 
-<li> College Majors and Earnings Growth (with Woosuk Choi, <a href="https://sites.google.com/view/josh-kinsler/" target="_blank">Josh Kinsler</a>, and <a href="https://sites.google.com/site/ronnipavan" target="_blank">Ronni Pavan</a>) </li>
-<details>
-<summary><b>Abstract</b></summary>
-
-In this paper we estimate major specific earnings profiles using matched American Community Survey (ACS) and Longitudinal Employer-Household Dynamics (LEHD) data. The advantage of the matched data relative to the ACS alone is that it provides a long panel of worker earnings, thus avoiding estimating life cycle profiles using cross- cohort variation. Once we allow the returns to major to vary by cohort, we find that engineering, computer science, and business majors experience faster earnings growth relative to humanities majors. For example, the gap in earnings between technical majors like engineering and computer science and humanities grows by 5-6% between ages 23 and 50. Our estimates also indicate that more recent graduates in these fields earn a larger premium relative to humanities than earlier cohorts.
-  	
-</details>
-<a href="{{ site.baseurl }}/assets/pdf/CKOP_4_7_23.pdf" target="_blank">[Manuscript]</a>
+<li> <a href="{{ site.baseurl }}/assets/pdf/CKOP_11_15_23.pdf" target="_blank">College Majors and Earnings Growth</a>
+ (with Woosuk Choi, Josh Kinsler, and Ronni Pavan) </li>
 
 
 <br>	&nbsp;
 
 
-<li> Neighbors' Spillovers on High School Choice (with <a href="https://jjmatta.notion.site" target="_blank">Juan Matta</a>) - <em> Submitted </em> </li>
-<details>
-<summary><b>Abstract</b></summary>
-
-Do neighbors affect each others’ schooling choices? We exploit oversubscription lotteries in Chile’s centralized school admission system to identify the effect of close neighbors on application and enrollment decisions. A student is 7-10% more likely to rank a high school as their first preference and to attend that school if their closest neighbor attended it the prior year. These effects are stronger among applicant-neighbor pairs with lower education, college expectations, and prior academic achievement, measured by previous scores in national standardized tests. Lower-achieving applicants are more likely to follow neighbors to schools with better attributes when their closest neighbor’s test scores are higher. Our findings suggest the existence of frictions that prevent some families from learning about all available schools. Targeted policies aimed at increasing information to disadvantaged families have the potential to alleviate these frictions and generate significant multiplier effects.
-  	
-</details>
-<a href="{{ site.baseurl }}/assets/pdf/neighbors_SAE.pdf" target="_blank">[Manuscript]</a>
+<li> <a href="{{ site.baseurl }}/assets/pdf/neighbors_SAE.pdf" target="_blank">Neighbors' Spillovers on High School Choice</a> (with Juan Matta) - <em> Submitted </em> </li>
 
 
 <br>	&nbsp;
 
 
-<li> Licensure Tests and Teacher Supply (with <a href="https://sites.bu.edu/marcuswinters/" target="_blank">Marcus Winters</a>) - <em> Submitted </em> </li> 
-<details>
-<summary><b>Abstract</b></summary>
-
-
-We apply a sharp regression discontinuity design to administrative data from Connecticut to investigate the impact of failing the first attempt at a licensure test on teacher supply. We find deterrent effects from failing both a basic skills test required to enter an educator preparation program (Praxis I) and a subject-matter test used for ultimate certification (Praxis II). Failing Praxis II especially deters those seeking endorsement to teach within the shortage areas of STEM and special education. Failing Praxis I especially deters those who would be less effective teachers, but failing Praxis II disproportionately pushes out relatively effective potential teachers.
-
-</details>
-<a href="{{ site.baseurl }}/assets/pdf/Praxis_Manuscript_Revision.pdf" target="_blank">[Manuscript]</a>
+<li> <a href="{{ site.baseurl }}/assets/pdf/Praxis_Manuscript_Revision.pdf" target="_blank">Licensure Tests and Teacher Supply</a> (with Marcus Winters) - <em> Submitted </em> </li> 
 
 
 <br>	&nbsp;
@@ -71,9 +50,7 @@ We apply a sharp regression discontinuity design to administrative data from Con
 <br>	&nbsp;
 
 
-<li> Teacher Mis-assessments and High School Outcomes </li> 
-
-<a href="{{ site.baseurl }}/assets/pdf/Manuscript.pdf" target="_blank">[Manuscript]</a>
+<li> <a href="{{ site.baseurl }}/assets/pdf/Manuscript.pdf" target="_blank">Teacher Mis-assessments and High School Outcomes</a> </li> 
 
 
 </ul>
@@ -88,7 +65,7 @@ We apply a sharp regression discontinuity design to administrative data from Con
 
 	&nbsp;
 
-<li> College Major Choice and Labor Market Matching (with Choi, <a href="https://sites.google.com/view/josh-kinsler/" target="_blank">Kinsler</a>, and <a href="https://sites.google.com/site/ronnipavan" target="_blank">Pavan</a>) </li> 
+<li> College Major Choice and Labor Market Matching (with Choi, Kinsler, and Pavan) </li> 
 
 </ul>
 
@@ -96,4 +73,11 @@ We apply a sharp regression discontinuity design to administrative data from Con
 
 #### Policy Writing
 <ul>
+
+<li> COVID-19 and the Composition of the Massachusetts Teacher Workforce (2021) 
+
+<br>
+
+with Andrew Bacher-Hicks and Olivia Chi
+</ul>
 
