@@ -1,6 +1,7 @@
 ---
 layout: page
-permalink: /z_policy/
+permalink: /policy/
+order: 3
 title: policy writing
 description: 
 #Materials for courses you taught. Replace this text with your description.

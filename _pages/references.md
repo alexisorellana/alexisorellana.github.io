@@ -1,6 +1,7 @@
 ---
 layout: page
 title: references
+order: 5
 permalink: /references/
 description: 
 nav: true

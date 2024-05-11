@@ -1,6 +1,7 @@
 ---
 layout: about
 title: about
+order: 1
 permalink: /
 description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 
