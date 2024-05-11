@@ -16,6 +16,9 @@ Licensure Tests and Teacher Quality in Connecticut (with Marcus Winters) - WEPC 
 <li> <a href="{{ site.baseurl }}/assets/pdf/TeacherWorkforce_PolicyBrief_Final.pdf" target="_blank"></a>
 COVID-19 and the Composition of the Massachusetts Teacher Workforce (with Andrew Bacher-Hicks and Olivia Chi) - WEPC Policy Brief </li>
 
+<li> <a href="{{ site.baseurl }}/assets/pdf/neighbors_SAE.pdf" target="_blank">Neighbors' Spillovers on High School Choice</a> (with Juan Matta) - <em> Submitted </em> </li>
+
+
 </ul>
 
 
