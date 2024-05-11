@@ -8,24 +8,29 @@
   <meta name="CocoaVersion" content="1671.6">
   <style type="text/css">
     p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 14.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000}
-    li.li2 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 14.0px; font: 12.0px Times; color: #0000e9; -webkit-text-stroke: #000000}
+    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 14.0px; font: 11.0px '.SF NS Text'; color: #000000; color: rgba(0, 0, 0, 0.85); -webkit-text-stroke: rgba(0, 0, 0, 0.85)}
+    li.li1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 14.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000}
+    li.li3 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 14.0px; font: 12.0px Times; color: #0000e9; -webkit-text-stroke: #000000}
     span.s1 {font-kerning: none}
     span.s2 {text-decoration: underline ; font-kerning: none; color: #0000e3; -webkit-text-stroke: 0px #0000e3}
-    span.s3 {font: 11.0px '.SF NS Text'; font-kerning: none; color: rgba(0, 0, 0, 0.85); background-color: #a4a4a4; -webkit-text-stroke: 0px rgba(0, 0, 0, 0.85)}
-    span.s4 {font: 11.0px '.SF NS Text'; font-kerning: none; color: rgba(0, 0, 0, 0.85); -webkit-text-stroke: 0px rgba(0, 0, 0, 0.85)}
-    span.s5 {font: 12.0px Times; text-decoration: underline ; font-kerning: none; color: #0000e9; -webkit-text-stroke: 0px #000000}
-    span.s6 {text-decoration: underline ; font-kerning: none; color: #0000e9}
-    span.s7 {text-decoration: underline ; font-kerning: none}
-    span.s8 {font-kerning: none; color: #000000}
+    span.s3 {font: 12.0px Times; font-kerning: none; color: #000000; -webkit-text-stroke: 0px #000000}
+    span.s4 {font-kerning: none; background-color: #a4a4a4}
+    span.s5 {-webkit-text-stroke: 0px #000000}
+    span.s6 {text-decoration: underline ; font-kerning: none}
     ul.ul1 {list-style-type: disc}
   </style>
 </head>
 <body>
 <p class="p1"><span class="s1">{% if page.title != "about" %} {% assign name = site.title | split: ' ' %} {% assign firstname = name | first %} {% if name.size &gt; 2 %} {% assign middlenames = name | slice:1, name.size-1 | join:" " %} {% else %} {% assign middlenames = '' %} {% endif %} {% assign lastname = name | last %} <a href="file:///Users/alexis/Documents/GitHub/alexisorellana.github.io/_includes/%7B%7B%20site.baseurl%20%7C%20prepend:%20site.url%20%7D%7D/"><span class="s2">{{ firstname }} {{ middlenames }} {{ lastname }} </span></a>{% elsif site.show_social_icons %}</span></p>
 <p class="p1"><span class="s1">{% include social.html %}<span class="Apple-converted-space"> </span></span></p>
-<p class="p1"><span class="s1">{% endif %} </span><span class="s3">Toggle navigation</span><span class="s4"> <a href="file:///Users/alexis/Documents/GitHub/alexisorellana.github.io/_includes/%7B%7B%20'/'%20%7C%20relative_url%20%7D%7D"><span class="s5">about {% if page.title == "about" %} (current) {% endif %} </span></a></span><span class="s1">{% if site.blog_name %} <a href="file:///Users/alexis/Documents/GitHub/alexisorellana.github.io/_includes/%7B%7B%20'/blog/'%20%7C%20relative_url%20%7D%7D"><span class="s6">blog {% if page.title == "blog" %} (current) {% endif %} </span></a>{% endif %} {% assign sorted_pages = site.pages | sort: "title" %} {% for p in sorted_pages %} {% if p.nav and p.autogen == nil %}</span></p>
+<p class="p2"><span class="s3">{% endif %} </span><span class="s4">Toggle navigation</span></p>
 <ul class="ul1">
-  <li class="li2"><span class="s7"><a href="file:///Users/alexis/Documents/GitHub/alexisorellana.github.io/_includes/%7B%7B%20p.url%20%7C%20relative_url%20%7D%7D">{{ p.title }} {% if page.title == p.title %} (current) {% endif %} </a></span><span class="s8">{% endif %} {% endfor %}<span class="Apple-converted-space"> </span></span></li>
+  <li class="li3"><span class="s5"><a href="file:///Users/alexis/Documents/GitHub/alexisorellana.github.io/_includes/%7B%7B%20'/'%20%7C%20relative_url%20%7D%7D"><span class="s6">about {% if page.title == "about" %} (current) {% endif %}<span class="Apple-converted-space"> </span></span></a></span></li>
+  <li class="li1"><span class="s5"></span><span class="s1">{% if site.blog_name %}</span></li>
+  <li class="li3"><span class="s5"><a href="file:///Users/alexis/Documents/GitHub/alexisorellana.github.io/_includes/%7B%7B%20'/blog/'%20%7C%20relative_url%20%7D%7D"><span class="s6">blog {% if page.title == "blog" %} (current) {% endif %}<span class="Apple-converted-space"> </span></span></a></span></li>
+  <li class="li1"><span class="s5"></span><span class="s1">{% endif %} {% assign sorted_pages = site.pages | sort: "title" %} {% for p in sorted_pages %} {% if p.nav and p.autogen == nil %}</span></li>
+  <li class="li3"><span class="s5"><a href="file:///Users/alexis/Documents/GitHub/alexisorellana.github.io/_includes/%7B%7B%20p.url%20%7C%20relative_url%20%7D%7D"><span class="s6">{{ p.title }} {% if page.title == p.title %} (current) {% endif %}<span class="Apple-converted-space"> </span></span></a></span></li>
+  <li class="li1"><span class="s5"></span><span class="s1">{% endif %} {% endfor %}<span class="Apple-converted-space"> </span></span></li>
 </ul>
 </body>
 </html>
