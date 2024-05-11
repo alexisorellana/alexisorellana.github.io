@@ -23,6 +23,14 @@ navbar_fixed: true
 footer_fixed: true
 # TODO: add layout settings (single page vs. multi-page)
 
+
+header_pages:
+ - about.md
+ - archive.md
+ - about.md
+ - messages.md
+
+
 # -----------------------------------------------------------------------------
 # Open Graph
 # -----------------------------------------------------------------------------
