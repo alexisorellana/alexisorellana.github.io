@@ -7,9 +7,7 @@ description:
 nav: true
 ---
 
-#### 
 <ul>
-
 
 <li> <a href="{{ site.baseurl }}/assets/pdf/WEPC-CT-Licensure-Policy-Brief-November-2023-2.pdf" target="_blank"></a>
 Licensure Tests and Teacher Quality in Connecticut (with Marcus Winters) - WEPC Policy Brief </li>
