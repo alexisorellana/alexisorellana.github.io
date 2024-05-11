@@ -16,8 +16,6 @@ nav: true
 
 with <a href="https://www.andrewbacherhicks.com/home" target="_blank">Andrew Bacher-Hicks</a> and <a href="https://www.oliviachi.com" target="_blank">Olivia Chi</a> - <em> Educational Researcher </em>, 52(4): 219-229 </li>
 
-<a href="{{ site.baseurl }}/assets/pdf/covid_WP.pdf" target="_blank">[WP Version]</a>
-
 </ul>
 
 
@@ -86,24 +84,11 @@ Does mis-assessment by teachers on subjective evaluations matter for students’
 <ul>
 <li> Aspirations, Education, and Occupations (with <a href="https://sites.google.com/site/kegontantk/" target="_blank">Kegon Tan</a>) </li> 
 
-<details>
-<summary><b>Abstract</b></summary>
-
-It is well documented that children often “inherit” their parents’ occupations. This paper studies the role of early occupational aspirations in determining later life outcomes, a potentially important channel for intergenerational correlations in occupations. Using the Wisconsin Longitudinal Study, we estimate a lifecycle model of college choice and occupation choice to quantify the effect of aspirations on education and wages. We find that aspirations have a sizeable impact on educational attainment and wages, even conditional on latent skills that we recover from the choice model. We also simulate the importance of family background conditional on skills through the strong correlation between family background and aspirations. Our findings suggest that aspirations may be valuable for reducing intergenerational inequality.  	
-</details>
-
 
 	&nbsp;
 
 
 <li> Coworker Networks, Residential Neighbors, and Earnings Growth - <em> W.E. Upjohn Institute Early Career Research Award </em> </li> 
-
-<details>
-<summary><b>Abstract</b></summary>
-
-I study the relevance of former coworkers and neighbors to explain job mobility and earnings growth patterns for workers in the United States. Using matched employer-employee data from the Longitudinal Employer-Household Dynamics I construct individual-level proxies of new job opportunities available to workers using the number of new hires in firms where previous coworkers and close neighbors work. I extend the empirical framework of Caldwell and Harmon (2019) to isolate the effect of individual-level networks from other determinants of job mobility. I merge these records to multiple rounds of the American Community Survey to investigate heterogeneity across occupations and college majors.
-</details>
-
 
 	&nbsp;
 
@@ -111,4 +96,9 @@ I study the relevance of former coworkers and neighbors to explain job mobility 
 <li> College Major Choice and Labor Market Matching (with Choi, <a href="https://sites.google.com/view/josh-kinsler/" target="_blank">Kinsler</a>, and <a href="https://sites.google.com/site/ronnipavan" target="_blank">Pavan</a>) </li> 
 
 </ul>
+
+<hr>
+
+#### Policy Writing
+<ul>
 

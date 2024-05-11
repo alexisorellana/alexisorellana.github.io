@@ -9,19 +9,19 @@ nav: true
 
 #### Northwestern University
 <ul>
-<li> Graduate: Economics of Public Policy (Fall 2023) </li> 
+<li> Graduate: Economics of Public Policy </li> 
 </ul>
 
 
 #### University of Rochester
 <ul>
-<li> Undergraduate: Econometrics (Summer 2019) </li> <a href="{{ site.baseurl }}/assets/pdf/Eco231_syllabus.pdf" target="_blank">[Syllabus]</a>
+<li> Undergraduate: Econometrics </li> <a href="{{ site.baseurl }}/assets/pdf/Eco231_syllabus.pdf" target="_blank">[Syllabus]</a>
 </ul>
 
 
 #### University of Chile  
 <ul>
-<li> Graduate: Mathematics for Economists (Fall 2014 & Fall 2015) </li> <a href="{{ site.baseurl }}/assets/pdf/syllabus-in700-Eng.pdf" target="_blank">[Syllabus]</a>
+<li> Graduate: Mathematics for Economists \</li> <a href="{{ site.baseurl }}/assets/pdf/syllabus-in700-Eng.pdf" target="_blank">[Syllabus]</a>
 
 </ul>
 
