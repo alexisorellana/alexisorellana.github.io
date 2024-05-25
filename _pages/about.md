@@ -13,11 +13,11 @@ news: false
 social: false
 ---
 
-Welcome! I am a Lead Economist at the School of Education and Social Policy at Northwestern University. Previously, I was a Postdoctoral Associate at the Wheelock Policy Educational Center at Boston University.
+I am a Lead Economist at the School of Education and Social Policy at Northwestern University. Previously, I was a Postdoctoral Associate at the Wheelock Policy Educational Center at Boston University.
 
 My research interests are labor economics and the economics of education.
 
-I received my Ph.D. in Economics from the University of Rochester in 2021. Before starting doctoral studies, I worked as an economist at the Chilean Antitrust Agency and as a Lecturer at the University of Chile. 
+I received my Ph.D. in Economics from the University of Rochester. Before starting doctoral studies, I worked at the Chilean Antitrust Agency and as a lecturer at the University of Chile. 
 
 Contact: <a href="mailto:boris.orellana@northwestern.edu">boris.orellana@northwestern.edu</a>
 
