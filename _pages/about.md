@@ -7,7 +7,7 @@ description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: JM4.jpg
+  image: 1L6A3665.jpg
 
 news: false
 social: false

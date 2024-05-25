@@ -29,7 +29,7 @@ with Andrew Bacher-Hicks and Olivia Chi - <em> Educational Researcher </em>, 52(
 <li> <a href="{{ site.baseurl }}/assets/pdf/CKOP_11_15_23.pdf" target="_blank">College Majors and Earnings Growth</a>
  (with Woosuk Choi, Josh Kinsler, and Ronni Pavan) 
 <br>
-<em> 		R&R at Journal of Labor Economics </em> </li>
+<em> 		R&R Journal of Labor Economics </em> </li>
 
 <li> <a href="{{ site.baseurl }}/assets/pdf/neighbors_SAE.pdf" target="_blank">Neighbors' Spillovers on High School Choice</a> (with Juan Matta) - <em> Submitted </em> </li>
 
