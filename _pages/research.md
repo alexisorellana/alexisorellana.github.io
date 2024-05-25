@@ -35,7 +35,7 @@ with Andrew Bacher-Hicks and Olivia Chi - <em> Educational Researcher </em>, 52(
 
 <li> <a href="{{ site.baseurl }}/assets/pdf/Praxis_Manuscript_Revision.pdf" target="_blank">Licensure Tests and Teacher Supply</a> (with Marcus Winters) - <em> Submitted </em> </li> 
 
-<li> <a href="{{ site.baseurl }}/assets/pdf/igo_main.pdf" target="_blank">Aspirations, Education, and Occupations</a> (with Kegon Tan) </li> 
+<li> <a href="{{ site.baseurl }}/assets/pdf/igo_main.pdf" target="_blank">Aspirations, Education, and Occupations</a> (with Kegon Tan) - <em> Submitted </em> </li> 
 
 <li> <a href="{{ site.baseurl }}/assets/pdf/Manuscript.pdf" target="_blank">Teacher Mis-assessments and High School Outcomes</a> </li> 
 
