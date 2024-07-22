@@ -29,19 +29,3 @@ nav: true
 
 
 
-<hr>
-
-#### Teaching Assistant, University of Rochester
-<ul>
-<li> Undergraduate: Econometrics; Labor Economics; Economic Statistics; Marketing Research and Analytics </li> 
-
-<li> Graduate: Econometrics; Core Statistics; Economics and Marketing Strategy; Research in Applied Econometrics; Managerial Economics </li> 
-</ul>
-
-
-#### Teaching Assistant, University of Chile
-<ul>
-<li> Undergraduate: Principles of Economics; Intermediate Microeconomics </li> 
-
-<li> Graduate: Economic Policy Workshop; Econometrics	</li> 
-</ul>
