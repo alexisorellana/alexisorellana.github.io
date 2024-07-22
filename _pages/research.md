@@ -32,7 +32,9 @@ with Andrew Bacher-Hicks and Olivia Chi - <em> Educational Researcher </em>, 52(
 <em> 		R&R at Journal of Labor Economics </em> </li>
 
 
-<li> <a href="{{ site.baseurl }}/assets/pdf/Praxis_Manuscript_Revision.pdf" target="_blank">Licensure Tests and Teacher Supply</a> (with Marcus Winters) - <em> R&R at Journal of Human Resources </em> </li> 
+<li> <a href="{{ site.baseurl }}/assets/pdf/Praxis_Manuscript_Revision.pdf" target="_blank">Licensure Tests and Teacher Supply</a> (with Marcus Winters) 
+<br>
+<em> R&R at Journal of Human Resources </em> </li> 
 
 
 <li> <a href="{{ site.baseurl }}/assets/pdf/neighbors_SAE.pdf" target="_blank">Neighbors' Spillovers on High School Choice</a> (with Juan Matta) - <em> Submitted </em> </li>
