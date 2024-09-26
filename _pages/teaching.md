@@ -10,7 +10,7 @@ nav: true
 
 #### Northwestern University
 <ul>
-<li> Graduate: Economics of Public Policy </li> 
+<li> Graduate: Economics of Public Policy </li> <a href="{{ site.baseurl }}/assets/pdf/Syllabus_SEPOL401.pdf" target="_blank">[Syllabus]</a>
 </ul>
 
 
