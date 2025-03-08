@@ -13,7 +13,7 @@ news: false
 social: false
 ---
 
-I am a Lead Economist at the School of Education and Social Policy at Northwestern University. Prior to this role, I was a Postdoctoral Associate at the Wheelock Policy Educational Center at Boston University.
+I am a Lead Economist at the School of Education and Social Policy at Northwestern University. Prior to this role, I was a Postdoctoral Associate at the Wheelock Educational Policy Center at Boston University.
 
 My research interests are labor economics and the economics of education.
 
