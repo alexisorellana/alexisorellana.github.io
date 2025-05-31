@@ -10,19 +10,20 @@ nav: true
 
 #### Northwestern University
 <ul>
-<li> Graduate: Economics of Public Policy </li> <a href="{{ site.baseurl }}/assets/pdf/Syllabus_SEPOL401.pdf" target="_blank">[Syllabus]</a>
+<li> Economics of Public Policy (master's) </li> <a href="{{ site.baseurl }}/assets/pdf/Syllabus_SEPOL401.pdf" target="_blank">[Syllabus]</a>
+<li> Economics of Education (master's) </li> 
 </ul>
 
 
 #### University of Rochester
 <ul>
-<li> Undergraduate: Econometrics </li> <a href="{{ site.baseurl }}/assets/pdf/Eco231_syllabus.pdf" target="_blank">[Syllabus]</a>
+<li> Econometrics (undergraduate) </li> <a href="{{ site.baseurl }}/assets/pdf/Eco231_syllabus.pdf" target="_blank">[Syllabus]</a>
 </ul>
 
 
 #### University of Chile  
 <ul>
-<li> Graduate: Mathematics for Economists </li> <a href="{{ site.baseurl }}/assets/pdf/syllabus-in700-Eng.pdf" target="_blank">[Syllabus]</a>
+<li> Mathematics for Economists (master's) </li> <a href="{{ site.baseurl }}/assets/pdf/syllabus-in700-Eng.pdf" target="_blank">[Syllabus]</a>
 
 </ul>
 

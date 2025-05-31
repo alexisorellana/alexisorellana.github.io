@@ -22,7 +22,7 @@ with Andrew Bacher-Hicks and Olivia Chi - <em> Educational Researcher </em>, 52(
 <br>
 <em> Accepted at the Journal of Human Resources </em> </li> 
 
-</li> <a href="{{ site.baseurl }}/assets/pdf/Licensure_Appendix.pdf" target="_blank">[Online Appendix]</a>
+<a href="{{ site.baseurl }}/assets/pdf/Licensure_Appendix.pdf" target="_blank">[Online Appendix]</a>
 
 </ul>
 
