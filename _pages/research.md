@@ -59,10 +59,12 @@ with Andrew Bacher-Hicks and Olivia Chi - <em> Educational Researcher </em>, 52(
 #### Work in Progress
 <ul>
 
-<li> Coworker Networks, Residential Neighbors, and Earnings Growth - <em> W.E. Upjohn Institute Early Career Research Award </em> </li> 
+<li> College Major Choice and Labor Market Matching (with Kinsler and Pavan) </li>
 
+<li> The Short-Term Consequences of Reducing Entry Requirements for Teaching Majors </li> 
 
-<li> College Major Choice and Labor Market Matching (with Choi, Kinsler, and Pavan) </li> 
+<li> The Distributional Effects of Centralized School Systems </li> 
+ 
 
 </ul>
 
