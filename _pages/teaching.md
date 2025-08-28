@@ -21,7 +21,7 @@ nav: true
 </ul>
 
 
-#### University of Chile  
+#### Universidad de Chile  
 <ul>
 <li> Mathematics for Economists (master's) </li> <a href="{{ site.baseurl }}/assets/pdf/syllabus-in700-Eng.pdf" target="_blank">[Syllabus]</a>
 
