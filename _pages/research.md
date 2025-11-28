@@ -26,7 +26,7 @@ with Andrew Bacher-Hicks and Olivia Chi - <em> Educational Researcher </em>, 52(
 <a href="{{ site.baseurl }}/assets/pdf/Licensure_Appendix.pdf" target="_blank">[Online Appendix]</a>
 
 
-<li> Whole-School Inclusion Programs and Student Academic and Behavioral Outcomes</a> (with Garima Siwach and Michelle Yin) 
+<li> Whole-School Inclusion Programs and Student Academic and Behavioral Outcomes (with Garima Siwach and Michelle Yin) 
 <br>
 <em> Accepted at AERA Open </em> </li> 
 
