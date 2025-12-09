@@ -17,6 +17,9 @@ nav: true
 
 with Andrew Bacher-Hicks and Olivia Chi - <em> Educational Researcher </em>, 52(4): 219-229 </li>
 
+<a href="{{ site.baseurl }}/assets/pdf/BCO_2023.pdf" target="_blank">[Manuscript]</a>
+
+
 
 <li> <a href="https://jhr.uwpress.org/content/early/2025/07/03/jhr.0324-13465R2" target="_blank">Licensure Tests and Teacher Supply</a> (with Marcus Winters) 
 <br>
@@ -39,10 +42,10 @@ with Andrew Bacher-Hicks and Olivia Chi - <em> Educational Researcher </em>, 52(
 <ul>
 
 
-<li> <a href="{{ site.baseurl }}/assets/pdf/CKOP_3_4_25.pdf" target="_blank">College Majors and Earnings Growth</a>
+<li> <a href="{{ site.baseurl }}/assets/pdf/CKOP_9_18_25.pdf" target="_blank">College Majors and Earnings Growth</a>
  (with Woosuk Choi, Josh Kinsler, and Ronni Pavan) 
 <br>
-<em> 		R&R at Journal of Labor Economics </em> </li>
+<em> 		Conditionally accepted at the Journal of Labor Economics </em> </li>
 
 
 
