@@ -17,15 +17,11 @@ nav: true
 
 with Andrew Bacher-Hicks and Olivia Chi - <em> Educational Researcher </em>, 52(4): 219-229 </li>
 
-<a href="{{ site.baseurl }}/assets/pdf/BCO_2023.pdf" target="_blank">[Manuscript]</a>
-
-
 
 <li> <a href="{{ site.baseurl }}/assets/pdf/jhr.0324-13465R2.full.pdf" target="_blank">Licensure Tests and Teacher Supply</a> (2025) 
 <br>
 with Marcus Winters - <em> Accepted at the Journal of Human Resources </em> </li> 
 
-<a href="{{ site.baseurl }}/assets/pdf/OW_5_27_25.pdf" target="_blank">[Manuscript]</a>
 <a href="{{ site.baseurl }}/assets/pdf/Licensure_Appendix.pdf" target="_blank">[Online Appendix]</a>
 
 
