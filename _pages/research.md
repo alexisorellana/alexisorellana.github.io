@@ -11,23 +11,19 @@ nav: true
 #### Publications and Accepted Work
 <ul>
 
-<li> <a href="{{ site.baseurl }}/assets/pdf/BCO_2023.pdf" target="_blank">Two Years Later: How COVID-19 has Shaped the Teacher Workforce</a> (2023) 
-
-<br>
-
-with Andrew Bacher-Hicks and Olivia Chi - <em> Educational Researcher </em>, 52(4): 219-229 </li>
-
-
 <li> <a href="{{ site.baseurl }}/assets/pdf/jhr.0324-13465R2.full.pdf" target="_blank">Licensure Tests and Teacher Supply</a> (2025) 
 <br>
 with Marcus Winters - <em> Accepted at the Journal of Human Resources </em> </li> 
-
 <a href="{{ site.baseurl }}/assets/pdf/Licensure_Appendix.pdf" target="_blank">[Online Appendix]</a>
 
 
-<li> Whole-School Inclusion Programs and Student Academic and Behavioral Outcomes (2025) 
+<li> <a href="https://doi.org/10.1177/23328584251400289" target="_blank">Whole-School Inclusion Programs and Student Academic and Behavioral Outcomes</a> (2025) 
 <br>
 with Garima Siwach and Michelle Yin - <em> Accepted at AERA Open </em> </li> 
+
+<li> <a href="{{ site.baseurl }}/assets/pdf/BCO_2023.pdf" target="_blank">Two Years Later: How COVID-19 has Shaped the Teacher Workforce</a> (2023) 
+<br>
+with Andrew Bacher-Hicks and Olivia Chi - <em> Educational Researcher </em>, 52(4): 219-229 </li>
 
 </ul>
 
