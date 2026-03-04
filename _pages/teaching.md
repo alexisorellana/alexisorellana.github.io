@@ -8,6 +8,12 @@ description:
 nav: true
 ---
 
+#### Universidad Andrés Bello  
+<ul>
+<li> Principles of Economics (undergraduate) 
+
+</ul>
+
 #### Northwestern University
 <ul>
 <li> Economics of Public Policy (master's) </li> <a href="{{ site.baseurl }}/assets/pdf/Syllabus_SEPOL401.pdf" target="_blank">[Syllabus]</a>
