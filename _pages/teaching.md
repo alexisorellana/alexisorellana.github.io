@@ -10,9 +10,8 @@ nav: true
 
 #### Universidad Andrés Bello  
 <ul>
-<li> Principles of Economics (undergraduate) 
-
-</ul>
+<li> Principles of Economics (undergraduate) </li>
+<ul>
 
 #### Northwestern University
 <ul>
