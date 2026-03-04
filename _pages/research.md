@@ -52,7 +52,7 @@ Last updated: December 2025
 Conditionally accepted at the <em> Journal of Labor Economics </em> </li>
 <br>
 
-<li> <a href="{{ site.baseurl }}/assets/pdf/neighbors_SAE.pdf" target="_blank">Neighbors' Spillovers on High School Choice</a> 
+<li> <a href="{{ site.baseurl }}/assets/pdf/neighbors_SAE_RR.pdf" target="_blank">Neighbors' Spillovers on High School Choice</a> 
 <br>
 with Juan Matta 
 <br>
