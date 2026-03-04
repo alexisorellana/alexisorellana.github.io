@@ -16,6 +16,7 @@ nav: true
 with Marcus Winters 
 <br>
 Accepted at the  <em> Journal of Human Resources </em> 
+<br>
 <a href="{{ site.baseurl }}/assets/pdf/Licensure_Appendix.pdf" target="_blank">[Online Appendix]</a>
 </li> 
 <br>
