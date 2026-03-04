@@ -13,7 +13,9 @@ nav: true
 
 <li> <a href="{{ site.baseurl }}/assets/pdf/jhr.0324-13465R2.full.pdf" target="_blank">Licensure Tests and Teacher Supply</a> (2025) 
 <br>
-with Marcus Winters - <em> Accepted at the Journal of Human Resources </em> </li> 
+with Marcus Winters 
+<br>
+Accepted at the  <em> Journal of Human Resources </em> </li> 
 <a href="{{ site.baseurl }}/assets/pdf/Licensure_Appendix.pdf" target="_blank">[Online Appendix]</a>
 
 
@@ -23,7 +25,10 @@ with Garima Siwach and Michelle Yin - <em> Accepted at AERA Open </em> </li>
 
 <li> <a href="{{ site.baseurl }}/assets/pdf/BCO_2023.pdf" target="_blank">Two Years Later: How COVID-19 has Shaped the Teacher Workforce</a> (2023) 
 <br>
-with Andrew Bacher-Hicks and Olivia Chi - <em> Educational Researcher </em>, 52(4): 219-229 </li>
+with Andrew Bacher-Hicks and Olivia Chi
+<br> 
+<em> Educational Researcher </em>, 52(4): 219-229 </li>
+<a href="{{ site.baseurl }}/assets/pdf/BCO_2023_appendix.pdf" target="_blank">[Online Appendix]</a>
 
 </ul>
 
@@ -35,15 +40,20 @@ with Andrew Bacher-Hicks and Olivia Chi - <em> Educational Researcher </em>, 52(
 
 
 <li> <a href="{{ site.baseurl }}/assets/pdf/CKOP_9_18_25.pdf" target="_blank">College Majors and Earnings Growth</a>
- (with Woosuk Choi, Josh Kinsler, and Ronni Pavan) 
 <br>
-<em> 		Conditionally accepted at the Journal of Labor Economics </em> </li>
-
-
-
-<li> <a href="{{ site.baseurl }}/assets/pdf/neighbors_SAE.pdf" target="_blank">Neighbors' Spillovers on High School Choice</a> (with Juan Matta) 
+with Woosuk Choi, Josh Kinsler, and Ronni Pavan
 <br>
-<em> R&R at Journal of Human Resources </em> </li> 
+Conditionally accepted at the <em> Journal of Labor Economics </em> </li>
+
+
+
+<li> <a href="{{ site.baseurl }}/assets/pdf/neighbors_SAE.pdf" target="_blank">Neighbors' Spillovers on High School Choice</a> 
+<br>
+with Juan Matta 
+<br>
+Last updated: February 2026
+<br>
+Revised and resubmitted to the <em> Journal of Human Resources </em> </li> 
 
 
 <li> <a href="{{ site.baseurl }}/assets/pdf/igo_main.pdf" target="_blank">Skills, Aspirations, and Occupations</a> (with Kegon Tan) </li> 

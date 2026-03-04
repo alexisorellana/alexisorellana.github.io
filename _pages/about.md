@@ -17,7 +17,7 @@ I am an Assistant Professor of Economics at the Institute for Economic Policies 
 
 My research interests lie at the intersection of labor economics and the economics of education.
 
-I completed my Ph.D. in Economics at the University of Rochester. I hold a B.Sc. in Electrical Engineering and a M.Sc. in Applied Economics from the University of Chile. Before starting doctoral studies, I worked as an economist at the Chilean Antitrust Agency. 
+I completed my Ph.D. in Economics at the University of Rochester. I hold a B.Sc. in Electrical Engineering and a M.Sc. in Applied Economics from Universidad de Chile. Before starting doctoral studies, I worked as an economist at the Chilean Antitrust Agency. 
 
 Contact: <a href="mailto:boris.orellana@northwestern.edu">boris.orellana@unab.cl</a>
 
