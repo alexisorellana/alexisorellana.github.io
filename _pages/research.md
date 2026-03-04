@@ -17,14 +17,14 @@ with Marcus Winters
 <br>
 Accepted at the  <em> Journal of Human Resources </em> </li> 
 <a href="{{ site.baseurl }}/assets/pdf/Licensure_Appendix.pdf" target="_blank">[Online Appendix]</a>
-<br>
+
 
 
 <li> <a href="{{ site.baseurl }}/assets/pdf/AERA_2025.pdf" target="_blank">Whole-School Inclusion Programs and Student Academic and Behavioral Outcomes</a> (2025) 
 <br>
 with Garima Siwach and Michelle Yin
 <br>
-<em> AERA Open: 11 </em> </li> 
+<em> AERA Open, 11 </em> </li> 
 
 <li> <a href="{{ site.baseurl }}/assets/pdf/BCO_2023.pdf" target="_blank">Two Years Later: How COVID-19 has Shaped the Teacher Workforce</a> (2023) 
 <br>
@@ -69,6 +69,8 @@ Last updated: September 2024
 </li> 
 
 <li> <a href="{{ site.baseurl }}/assets/pdf/Manuscript.pdf" target="_blank">Teacher Mis-assessments and High School Outcomes</a> </li> 
+<br>
+Last updated: July 2022
 
 
 </ul>
