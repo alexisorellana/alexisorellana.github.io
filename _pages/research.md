@@ -25,6 +25,7 @@ Accepted at the  <em> Journal of Human Resources </em> </li>
 with Garima Siwach and Michelle Yin
 <br>
 <em> AERA Open, 11 </em> </li> 
+<br>
 
 <li> <a href="{{ site.baseurl }}/assets/pdf/BCO_2023.pdf" target="_blank">Two Years Later: How COVID-19 has Shaped the Teacher Workforce</a> (2023) 
 <br>
@@ -49,8 +50,8 @@ with Woosuk Choi, Josh Kinsler, and Ronni Pavan
 Last updated: December 2025
 <br>
 Conditionally accepted at the <em> Journal of Labor Economics </em> </li>
-
-
+<br>
+<br>
 
 <li> <a href="{{ site.baseurl }}/assets/pdf/neighbors_SAE.pdf" target="_blank">Neighbors' Spillovers on High School Choice</a> 
 <br>
@@ -59,6 +60,7 @@ with Juan Matta
 Last updated: February 2026
 <br>
 Revised and resubmitted to the <em> Journal of Human Resources </em> </li> 
+<br>
 
 
 <li> <a href="{{ site.baseurl }}/assets/pdf/igo_main.pdf" target="_blank">Skills, Aspirations, and Occupations</a> 
@@ -67,6 +69,8 @@ with Kegon Tan
 <br>
 Last updated: September 2024
 </li> 
+<br>
+<br>
 
 <li> <a href="{{ site.baseurl }}/assets/pdf/Manuscript.pdf" target="_blank">Teacher Mis-assessments and High School Outcomes</a> 
 <br>
