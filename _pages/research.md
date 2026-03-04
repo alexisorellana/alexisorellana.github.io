@@ -18,7 +18,6 @@ with Marcus Winters
 Accepted at the  <em> Journal of Human Resources </em> </li> 
 <a href="{{ site.baseurl }}/assets/pdf/Licensure_Appendix.pdf" target="_blank">[Online Appendix]</a>
 <br>
-<br>
 
 <li> <a href="{{ site.baseurl }}/assets/pdf/AERA_2025.pdf" target="_blank">Whole-School Inclusion Programs and Student Academic and Behavioral Outcomes</a> (2025) 
 <br>
@@ -51,7 +50,6 @@ Last updated: December 2025
 <br>
 Conditionally accepted at the <em> Journal of Labor Economics </em> </li>
 <br>
-<br>
 
 <li> <a href="{{ site.baseurl }}/assets/pdf/neighbors_SAE.pdf" target="_blank">Neighbors' Spillovers on High School Choice</a> 
 <br>
@@ -62,7 +60,6 @@ Last updated: February 2026
 Revised and resubmitted to the <em> Journal of Human Resources </em> </li> 
 <br>
 
-
 <li> <a href="{{ site.baseurl }}/assets/pdf/igo_main.pdf" target="_blank">Skills, Aspirations, and Occupations</a> 
 <br>
 with Kegon Tan
@@ -70,13 +67,11 @@ with Kegon Tan
 Last updated: September 2024
 </li> 
 <br>
-<br>
 
 <li> <a href="{{ site.baseurl }}/assets/pdf/Manuscript.pdf" target="_blank">Teacher Mis-assessments and High School Outcomes</a> 
 <br>
 Last updated: July 2022
 </li> 
-
 </ul>
 
 
