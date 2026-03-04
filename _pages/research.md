@@ -15,8 +15,9 @@ nav: true
 <br>
 with Marcus Winters 
 <br>
-Accepted at the  <em> Journal of Human Resources </em> </li> 
+Accepted at the  <em> Journal of Human Resources </em> 
 <a href="{{ site.baseurl }}/assets/pdf/Licensure_Appendix.pdf" target="_blank">[Online Appendix]</a>
+</li> 
 <br>
 
 <li> <a href="{{ site.baseurl }}/assets/pdf/AERA_2025.pdf" target="_blank">Whole-School Inclusion Programs and Student Academic and Behavioral Outcomes</a> (2025) 
