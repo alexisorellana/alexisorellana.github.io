@@ -72,7 +72,7 @@ Last updated: September 2024
 
 <li> <a href="{{ site.baseurl }}/assets/pdf/Manuscript.pdf" target="_blank">Teacher Mis-assessments and High School Outcomes</a> 
 <br>
-Last updated: July 2022
+Last updated: July 2022 (Resting)
 </li> 
 </ul>
 
@@ -86,7 +86,9 @@ Last updated: July 2022
 
 <li> The Short-Term Consequences of Reducing Entry Requirements for Teaching Majors </li> 
 
-<li> The Distributional Effects of Centralized School Systems </li> 
+<li> The Effect of Attending a Top-Ranked School on College Enrollment </li> 
+
+<li> Teacher Colleges' Exit Exams and Early-Career Outcomes (with Josefina Senese) </li> 
  
 
 </ul>
