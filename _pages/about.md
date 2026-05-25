@@ -10,7 +10,7 @@ profile:
   image: 1L6A3665.jpg
 
 news: false
-social: false
+social: true
 ---
 
 I am an Assistant Professor of Economics at the Institute for Economic Policies at Universidad Andrés Bello in Santiago, Chile. Prior to this position, I was a Lead Economist at the School of Education and Social Policy at Northwestern University and a Postdoctoral Associate at the Wheelock Educational Policy Center at Boston University.
