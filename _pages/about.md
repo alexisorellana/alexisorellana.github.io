@@ -21,7 +21,7 @@ I completed my Ph.D. in Economics at the University of Rochester. I hold a B.Sc.
 
 Contact: <a href="mailto:boris.orellana@unab.cl">boris.orellana@unab.cl</a>
 
-[Curriculum Vitae]({{ site.baseurl }}/assets/pdf/Alexis Orellana - CV.pdf target="_blank")
+[Curriculum Vitae]({{ site.baseurl }}/assets/pdf/Alexis Orellana - CV.pdf)
 
 
 
