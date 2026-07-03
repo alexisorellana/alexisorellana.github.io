@@ -11,6 +11,16 @@ nav: true
 #### Publications and Accepted Work
 <ul>
 
+<li> <a href="{{ site.baseurl }}/assets/pdf/742937.pdf" target="_blank">College Majors and Earnings Growth</a>
+<br>
+with Woosuk Choi, Josh Kinsler, and Ronni Pavan
+<br>
+Accepted at the <em> Journal of Labor Economics </em> </li>
+<br>
+<a href="{{ site.baseurl }}/assets/pdf/CKOP_appendix_6_17_26.pdf" target="_blank">[Online Appendix]</a>
+</li> 
+<br>
+
 <li> <a href="{{ site.baseurl }}/assets/pdf/jhr.0324-13465R2.full.pdf" target="_blank">Licensure Tests and Teacher Supply</a> (2025) 
 <br>
 with Marcus Winters 
@@ -43,15 +53,6 @@ with Andrew Bacher-Hicks and Olivia Chi
 #### Working Papers
 <ul>
 
-
-<li> <a href="{{ site.baseurl }}/assets/pdf/CKOP_9_18_25.pdf" target="_blank">College Majors and Earnings Growth</a>
-<br>
-with Woosuk Choi, Josh Kinsler, and Ronni Pavan
-<br>
-Last updated: December 2025
-<br>
-Conditionally accepted at the <em> Journal of Labor Economics </em> </li>
-<br>
 
 <li> <a href="{{ site.baseurl }}/assets/pdf/neighbors_SAE_RR.pdf" target="_blank">Neighbors' Spillovers on High School Choice</a> 
 <br>
