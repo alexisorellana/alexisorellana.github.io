@@ -11,7 +11,7 @@ nav: true
 #### Publications and Accepted Work
 <ul>
 
-<li> <a href="{{ site.baseurl }}/assets/pdf/742937.pdf" target="_blank">College Majors and Earnings Growth</a>
+<li> <a href="{{ site.baseurl }}/assets/pdf/742937.pdf" target="_blank">College Majors and Earnings Growth</a> (2026)
 <br>
 with Woosuk Choi, Josh Kinsler, and Ronni Pavan
 <br>
