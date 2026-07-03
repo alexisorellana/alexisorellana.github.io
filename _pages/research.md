@@ -15,7 +15,7 @@ nav: true
 <br>
 with Woosuk Choi, Josh Kinsler, and Ronni Pavan
 <br>
-Accepted at the <em> Journal of Labor Economics </em> </li>
+Accepted at the <em> Journal of Labor Economics </em>
 <br>
 <a href="{{ site.baseurl }}/assets/pdf/CKOP_appendix_6_17_26.pdf" target="_blank">[Online Appendix]</a>
 </li> 
