@@ -11,6 +11,7 @@ nav: true
 #### Universidad Andrés Bello  
 <ul>
 <li> Principles of Economics (undergraduate) </li>
+<li> Microeconomics I (undergraduate) </li>
 </ul>
 
 #### Northwestern University
